@@ -6,9 +6,9 @@ void main() {
   String myName = 'Vaibhav';
 
 // final keyword lets the value assigned only once. Runtime assignments are also possible
-  final num;
+  final int num;
   num = 34; 
 
 // const keyword lets the value to be assigned at the time of declaration only
-  const value = 45;
+  const int value = 45;
 }
